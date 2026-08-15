@@ -1,4 +1,4 @@
-# laith
+# tradingview mcp setup title
 
 ## TradingView MCP setup
 
